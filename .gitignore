@@ -1,0 +1,10 @@
+# Visual Studio Code IDE files
+.vscode
+
+# npm
+node_modules/
+npm-debug.log
+
+#Folders
+.DS_Store
+
